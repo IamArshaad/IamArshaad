@@ -1,0 +1,8 @@
+- 👋 Hi there, I’m Arshad
+- 👀 I’m interested in development, data analystics and android app development
+- 🌱 I’m currently learning flutter
+- 💞️ I'm looking to collaborate on intresting jobs that can enhance my skillset
+- 😍 Currently working on a ML project as part of my academic curriculum 
+- ❤️ I'm certified in essentials of data science, excel essentials and python
+- 📖 I love reading books, but not more than buying those
+- 📫 Reach me at arshadmkkvr@gmail.com
