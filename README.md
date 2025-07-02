@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arshad Mk</h1>
+<h1 align="center">Hi, I'm Arshad Mk</h1>
 <h3 align="center">Data Analyst & aspiring Data Engineer from India 🇮🇳</h3>
 
 <p align="center">
@@ -16,17 +16,17 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
-- 🧐 From cleaning and analyzing large-scale datasets to building dynamic Power BI dashboards, I love uncovering stories in data that drive decisions.
+- From cleaning and analyzing large-scale datasets to building dynamic Power BI dashboards, I love uncovering stories in data that drive decisions.
 
-- 📊 Currently a **Data Analyst**, growing into **Data Engineering** — learning AWS, Docker & robust data pipelines.
+- Currently a **Data Analyst**, growing into **Data Engineering** — learning AWS, Docker & robust data pipelines.
 
-- 🔥 Passionate about research-backed insights, clear visual storytelling, and always exploring better ways to make data accessible.
+- Passionate about research-backed insights, clear visual storytelling, and always exploring better ways to make data accessible.
 
 ---
 
-### 🛠 My Tech Stack
+### My Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -40,7 +40,7 @@
 
 ---
 
-### 🔥 Featured Projects
+### Featured Projects
 
 - 📌 **Project 1:** [Dummy Project Repo](https://github.com/arshadmk/dummy1)  
   Data cleaning & analysis on large multi-source datasets.
@@ -53,13 +53,13 @@
 
 ---
 
-### 📝 My Writings
+### My Writings
 
 I also share thoughts on data, career, and tech on [Medium](https://medium.com/@arshadmk).
 
 ---
 
-### 📫 How to reach me
+### How to reach me
 
 <p align="center">
   <a href="mailto:arshadmkkvr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
