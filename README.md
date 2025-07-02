@@ -54,15 +54,14 @@
 
 ### 🚀 Featured Projects
 
-- 📌 **Project 1:** [Dummy Project Repo](https://github.com/IamArshaad/dummy1)  
-  Data cleaning & analysis on large multi-source datasets.
+- 📌 **Project 1:** [Air Quality Index Prediction](https://github.com/IamArshaad/Air-Quality-Index-Prediction)  
+  This project focuses on predicting Air Quality Index (AQI) values using the FB Prophet model. The dataset used for this project comes from the UCI Machine Learning Repository - Air Quality Dataset.
 
-- 📌 **Project 2:** [Dummy Project Repo](https://github.com/IamArshaad/dummy2)  
-  Power BI dashboard for tracking policy KPIs.
+- 📌 **Project 2:** [SQL Data Cleaning and EDA](https://github.com/IamArshaad/SQL-Data-Cleaning-and-Exploratory-Data-Analysis)  
+  Conducted data cleaning and transformation on a comprehensive dataset of global layoffs in multinational corporations (MNCs) during the COVID-19 pandemic, ensuring data consistency and accuracy..
 
-- 📌 **Project 3:** [Dummy Project Repo](https://github.com/IamArshaad/dummy3)  
-  Exploratory statistical analysis using Python.
-
+- 📌 **Project 3:** [Power BI Dashboards](https://github.com/IamArshaad/Power-BI)  
+  Collection of data-driven projects created using Power BI. 
 ---
 
 ### ✍️ My Writings
