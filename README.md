@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst & aspiring Data Engineer from India 🇮🇳</h3>
 
 <p align="center">
-  <a href="https://yourportfolio.com" target="_blank">
+  <a href="https://iamarshaad.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%2312100E?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://medium.com/@Iamarshad" target="_blank">
