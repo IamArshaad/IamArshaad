@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Arshad Mk</h1>
+<h1 align="center">Hi, I'm Arshad</h1>
 <h3 align="center">Data Analyst & aspiring Data Engineer from India 🇮🇳</h3>
 
 <p align="center">
